@@ -1,8 +1,7 @@
 # Web-Design-Challenge
 
 
-Please find the main landing page under https://tiffanyycheng99.github.io/Web-Design-Challenge/index.html
-
+Please find the main landing page under 
 
 Other pages in this site:
   - indexl.html
